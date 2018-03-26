@@ -1,10 +1,10 @@
 # Week-8
 
-Username Enumeration: The class parameter in the response of Globitech (green) changes from "failure" to "failed" if the user is not in the database.
+The following required challenges are completed:
 
-Insecure Direct Object Reference: The sales person information can be extracted from changing the id in the url thus making it vunerable.
-
-SQL Injection: The blue website does not have a sanitized when passing the sql queries in the sales person info sec.
-
-Cross-Site Scripting: The green website does'nt handles the XSS attack when script is passed on from feedback page.
-
+ Challenge 1: Username Enumeration
+ Challenge 2: Insecure Direct Object Reference
+ Challenge 3: SQL Injection
+ Challenge 4: Cross-Site Scripting
+ Challenge 5: Cross-Site Request Forgery
+ Challenge 6: Session Hijacking/Fixation
